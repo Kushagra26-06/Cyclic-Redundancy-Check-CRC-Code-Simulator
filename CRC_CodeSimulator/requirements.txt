@@ -1,0 +1,8 @@
+# CRC Code Simulator - Python Dependencies
+
+# Core dependencies
+# No external dependencies required - uses only Python standard library
+
+# Optional dependencies for development
+# pytest>=7.0.0        # For unit testing
+# pyinstaller>=5.0.0   # For creating standalone executables

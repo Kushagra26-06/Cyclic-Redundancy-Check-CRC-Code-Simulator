@@ -1,0 +1,6 @@
+# CRC Code Simulator - Python Dependencies
+# Core Python - No external dependencies required for basic functionality
+
+# Optional: For enhanced features
+# PyPDF2>=3.0.0  # For PDF processing (if needed)
+# numpy>=1.21.0  # For advanced mathematical operations (if needed)
