@@ -4,7 +4,7 @@
 
 <br>
 =======
->>>>>>> d3620e3580d9e6eea7072193c5dda1bd06f2cceb
+
 
 <div align="center">
   <img src="crc-logo.png" alt="CRC Logo" width="300">
@@ -13,7 +13,7 @@
 
 <br>
 =======
->>>>>>> d3620e3580d9e6eea7072193c5dda1bd06f2cceb
+
 
 A professional educational tool for understanding Cyclic Redundancy Check (CRC) error detection algorithms. This simulator provides both a graphical interface and command-line tools for exploring how CRC works in data transmission.
 
