@@ -1,7 +1,7 @@
 
 # CRC Code Simulator
 
-<<<<<<< HEAD
+
 <br>
 =======
 >>>>>>> d3620e3580d9e6eea7072193c5dda1bd06f2cceb
@@ -10,7 +10,7 @@
   <img src="crc-logo.png" alt="CRC Logo" width="300">
 </div>
 
-<<<<<<< HEAD
+
 <br>
 =======
 >>>>>>> d3620e3580d9e6eea7072193c5dda1bd06f2cceb
