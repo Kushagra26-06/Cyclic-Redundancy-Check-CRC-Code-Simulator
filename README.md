@@ -4,7 +4,7 @@
 
 
 
-<img src="crc-logo.png" alt="CRC Logo" width="500">
+<img src="crc-logo.png" alt="CRC Logo" width="400">
 
 
 
