@@ -1,5 +1,9 @@
 # CRC Code Simulator
 
+<div align="center">
+  <img src="crc-logo.png" alt="CRC Logo" width="400">
+</div>
+
 A professional educational tool for understanding Cyclic Redundancy Check (CRC) error detection algorithms. This simulator provides both a graphical interface and command-line tools for exploring how CRC works in data transmission.
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
