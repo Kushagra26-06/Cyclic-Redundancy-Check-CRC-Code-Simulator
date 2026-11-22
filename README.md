@@ -1,8 +1,7 @@
 
 # CRC Code Simulator
 
-<<<<<<< HEAD
-<br>
+
 =======
 
 <br>
